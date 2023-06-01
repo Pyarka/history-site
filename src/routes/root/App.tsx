@@ -1,22 +1,21 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={"https://pirogzla.com/uploads/posts/2022-08/1659575243_39-pirogzla-com-p-porno-visyachii-khui-negra-51.jpg"} className="App-logo" alt="l" />
         <p>
-          Edit <code>src/App.tsx</code> and save to reload.
+          Вертихуй
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="/surprise"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Нажми для сюрприза
         </a>
       </header>
     </div>
